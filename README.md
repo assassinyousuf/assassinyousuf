@@ -72,7 +72,7 @@
 - 🌐 [LinkedIn](https://www.linkedin.com/in/yousuf-hossain-06089a328)  
 - 📧 **Email:** yousuf.cse.diu@gmail.com  
 - 📱 **Telegram / WhatsApp:** +8801629263618  
-- 🏠 **Portfolio (Coming Soon):** [yousufhossain.github.io]([https://yousufhossain.github.io](https://assassinyousuf.github.io/yousuf-hossain-portfolio_2.0))
+- 🏠 **Portfolio :** [https://assassinyousuf.github.io/yousuf-hossain-portfolio_2.0]((https://assassinyousuf.github.io/yousuf-hossain-portfolio_2.0))
 
 ---
 
