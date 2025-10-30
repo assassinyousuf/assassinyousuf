@@ -1,23 +1,23 @@
 <!-- Profile README for Md. Yousuf Hossain -->
 
-<h1 align="center">Hi 👋, I'm Md. Yousuf Hossain</h1>
-<h3 align="center">💻 Aspiring Cybersecurity & Machine Learning Engineer | CSE Student | Treasurer @ DIU CPC</h3>
+# Hi 👋, I'm Md. Yousuf Hossain
+### 💻 Aspiring Cybersecurity & Machine Learning Engineer | CSE Student | Treasurer @ DIU CPC
 
 ---
 
-### 🧠 About Me  
+### 🧠 About Me
 🎓 **B.Sc. in Computer Science & Engineering (2027)** — Dhaka International University  
 🔒 Passionate about **Cybersecurity**, **AI**, and **Software Development**  
 🚀 Aspiring to pursue **Master’s in Cybersecurity (Russia)** after graduation  
 🧩 Currently exploring **Machine Learning**, **Python**, and **Flutter App Development**  
 🏆 **Champion** — DIU Intra First Practice CTF, Dhaka International University Cyber Security Club  
-💼 **Treasurer** — Dhaka International University Computer Programming Club (DIU CPC)  
+💼 **Treasurer** — Dhaka International University Computer Programming Club (DIU CPC)
 
 ---
 
 ### 🌱 Currently Learning
 - Flutter & Dart (Mobile App Development)
-- Machine Learning Algorithms (Scikit-learn, Pandas, NumPy, Matplotlib)
+- Machine Learning Algorithms (scikit-learn, pandas, NumPy, Matplotlib)
 - Cybersecurity Concepts (Networking, Pentesting, Digital Forensics)
 - Git & GitHub for Open-Source Collaboration
 
@@ -26,8 +26,8 @@
 ### ⚙️ Tech Stack
 **Languages:** Python, C, C++, Assembly, HTML, CSS, JavaScript  
 **Frameworks & Tools:** Flutter, VS Code, Jupyter, Git, GitHub, Colab  
-**Libraries:** NumPy, Pandas, Matplotlib, Scikit-learn  
-**Other Skills:** Problem Solving, Zone Prediction (Esports), Team Leadership, Graphic Design  
+**Libraries:** NumPy, pandas, Matplotlib, scikit-learn  
+**Other Skills:** Problem Solving, Zone Prediction (Esports), Team Leadership, Graphic Design
 
 ---
 
@@ -40,22 +40,23 @@
 ---
 
 ### 💼 Featured Projects
+
 | Project | Description | Tech |
-|----------|--------------|------|
+|---|---|---|
 | [Algorithm Repository](https://github.com/assassinyousuf/algorithm) | Data structures & algorithms solved for practice & learning | C, Python |
 | [Assembly Language Programs](https://github.com/assassinyousuf/Assembly_Language) | Low-level computing and logic implementations | Assembly |
 | [BloomWatch Assets](https://github.com/assassinyousuf/BloomWatch-assets) | Game/creative asset collection for fun projects | Mixed Media |
-| [Flutter Practice (Coming Soon)]() | First Flutter UI project in progress | Flutter, Dart |
+| Flutter Practice (Coming Soon) | First Flutter UI project in progress | Flutter, Dart |
 
 ---
 
 ### 🎨 Hobbies & Interests
-- 🎮 Esports Strategy & Leadership (IGL experience)
+- 🎮 Esports Strategy & Leadership (IGL experience)  
 - 📸 Photography & Creative Editing  
 - 🧩 Solving logical puzzles & capture-the-flag (CTF) challenges  
-- 🎵 Music & Lo-fi coding sessions  
+- 🎵 Music & lo-fi coding sessions  
 - 🧘‍♂️ Gym & personal fitness (started training recently)  
-- ☕ Tea, long conversations, and spontaneous coding marathons  
+- ☕ Tea, long conversations, and spontaneous coding marathons
 
 ---
 
@@ -68,11 +69,11 @@
 
 ---
 
-### 📫 Connect With Me  
+### 📫 Connect With Me
 - 🌐 [LinkedIn](https://www.linkedin.com/in/yousuf-hossain-06089a328)  
 - 📧 **Email:** yousuf.cse.diu@gmail.com  
 - 📱 **Telegram / WhatsApp:** +8801629263618  
-- 🏠 **Portfolio :** [https://assassinyousuf.github.io/yousuf-hossain-portfolio_2.0](https://assassinyousuf.github.io/yousuf-hossain-portfolio_2.0)
+- 🏠 **Portfolio:** https://assassinyousuf.github.io/yousuf-hossain-portfolio_2.0
 
 ---
 
@@ -81,4 +82,4 @@
 
 ---
 
-⭐️ *If you like my projects, don’t forget to star them — it really motivates me!*  
+⭐️ *If you like my projects, don’t forget to star them — it really motivates me!*
