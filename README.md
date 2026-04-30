@@ -1,7 +1,7 @@
 <!-- Profile README for Md. Yousuf Hossain -->
 
 # Hi 👋, I'm Md. Yousuf Hossain
-### 💻 Aspiring Cybersecurity & Machine Learning Engineer | CSE Student | Treasurer @ DIU CPC
+### 💻 Aspiring Cybersecurity & Machine Learning Researcher | CSE Student 
 
 ---
 
