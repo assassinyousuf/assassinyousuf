@@ -3,13 +3,13 @@
 </h1>
 
 <p align="center">
-  <a href="https://assassinyousuf.github.io/yousuf-hossain-portfolio_2.0" target="_blank">
+  <a href="https://yousuf.surf" target="_blank">
     <img alt="Portfolio" src="https://img.shields.io/badge/Website-Portfolio-00F0FF?style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/yousuf-hossain-06089a328" target="_blank">
+  <a href="https://www.linkedin.com/in/mdyousufhossainmehrab/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:yousuf.cse.diu@gmail.com">
+  <a href="mailto:itsmemehrab369@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
