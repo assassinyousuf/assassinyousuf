@@ -1,85 +1,91 @@
-<!-- Profile README for Md. Yousuf Hossain -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=30&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=Hi+there!+%F0%9F%91%8B;I'm+Md.+Yousuf+Hossain;Cybersecurity+Enthusiast;Machine+Learning+Explorer" alt="Typing SVG" />
+</h1>
 
-# Hi 👋, I'm Md. Yousuf Hossain
-### 💻 Aspiring Cybersecurity & Machine Learning Researcher | CSE Student 
-
----
-
-### 🧠 About Me
-🎓 **B.Sc. in Computer Science & Engineering (2027)** — Dhaka International University  
-🔒 Passionate about **Cybersecurity**, **AI**, and **Software Development**  
-🚀 Aspiring to pursue **Master’s in Cybersecurity (Russia)** after graduation  
-🧩 Currently exploring **Machine Learning**, **Python**, and **Flutter App Development**  
-🏆 **Champion** — DIU Intra First Practice CTF, Dhaka International University Cyber Security Club  
-💼 **Treasurer** — Dhaka International University Computer Programming Club (DIU CPC)
-
----
-
-### 🌱 Currently Learning
-- Flutter & Dart (Mobile App Development)
-- Machine Learning Algorithms (scikit-learn, pandas, NumPy, Matplotlib)
-- Cybersecurity Concepts (Networking, Pentesting, Digital Forensics)
-- Git & GitHub for Open-Source Collaboration
-
----
-
-### ⚙️ Tech Stack
-**Languages:** Python, C, C++, Assembly, HTML, CSS, JavaScript  
-**Frameworks & Tools:** Flutter, VS Code, Jupyter, Git, GitHub, Colab  
-**Libraries:** NumPy, pandas, Matplotlib, scikit-learn  
-**Other Skills:** Problem Solving, Zone Prediction (Esports), Team Leadership, Graphic Design
-
----
-
-### 🏅 Achievements
-- 🥇 Champion — DIU Intra Practice CTF 2024  
-- 💼 Treasurer — DIU Computer Programming Club  
-- 💬 Represented DIU CPC in coding events and cybersecurity sessions  
-- 🎯 Created academic and practice repositories (Algorithms, Assembly, DLD, BloomWatch assets)
-
----
-
-### 💼 Featured Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| [Algorithm Repository](https://github.com/assassinyousuf/algorithm) | Data structures & algorithms solved for practice & learning | C, Python |
-| [Assembly Language Programs](https://github.com/assassinyousuf/Assembly_Language) | Low-level computing and logic implementations | Assembly |
-| [BloomWatch Assets](https://github.com/assassinyousuf/BloomWatch-assets) | Game/creative asset collection for fun projects | Mixed Media |
-| Flutter Practice (Coming Soon) | First Flutter UI project in progress | Flutter, Dart |
-
----
-
-### 🎨 Hobbies & Interests
-- 🎮 Esports Strategy & Leadership (IGL experience)  
-- 📸 Photography & Creative Editing  
-- 🧩 Solving logical puzzles & capture-the-flag (CTF) challenges  
-- 🎵 Music & lo-fi coding sessions  
-- 🧘‍♂️ Gym & personal fitness (started training recently)  
-- ☕ Tea, long conversations, and spontaneous coding marathons
-
----
-
-### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=assassinyousuf&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=assassinyousuf&theme=tokyonight" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=assassinyousuf&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <a href="https://assassinyousuf.github.io/yousuf-hossain-portfolio_2.0" target="_blank">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Website-Portfolio-00F0FF?style=for-the-badge&logo=google-chrome&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/yousuf-hossain-06089a328" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:yousuf.cse.diu@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </p>
 
 ---
 
-### 📫 Connect With Me
-- 🌐 [LinkedIn](https://www.linkedin.com/in/yousuf-hossain-06089a328)  
-- 📧 **Email:** yousuf.cse.diu@gmail.com  
-- 📱 **Telegram / WhatsApp:** +8801629263618  
-- 🏠 **Portfolio:** https://assassinyousuf.github.io/yousuf-hossain-portfolio_2.0
+### 🕵️‍♂️ About Me
+*🎓 **B.Sc. in Computer Science & Engineering (2027)** — Dhaka International University*
+
+I am an aspiring **Cybersecurity & Machine Learning Researcher** with a deep passion for solving complex logical puzzles, finding vulnerabilities, and training models. 
+
+- 🚀 Currently aiming for a **Master’s in Cybersecurity (Russia)**.
+- 🏆 **Champion** — DIU Intra First Practice CTF (Dhaka International University Cyber Security Club).
+- 💼 **Treasurer** — Dhaka International University Computer Programming Club (DIU CPC).
+- 💡 **Fun Fact:** *I see coding as art — where logic meets creativity, and every bug has a story to tell.*
 
 ---
 
-### ✨ Fun Fact
-> "I see coding as art — where logic meets creativity, and every bug has a story to tell."
+### 💻 Tech Stack & Tools
+
+<p align="left">
+  <strong>Languages:</strong><br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/Assembly-000000?style=flat-square&logo=assemblyscript&logoColor=white" alt="Assembly" />
+</p>
+
+<p align="left">
+  <strong>Frameworks & ML:</strong><br>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+</p>
 
 ---
 
-⭐️ *If you like my projects, don’t forget to star them — it really motivates me!*
+### 🌱 Currently Exploring
+- 📱 **Flutter & Dart** for cross-platform app development.
+- 🧠 **Machine Learning** algorithms and data manipulation.
+- 🔐 **Cybersecurity** concepts: Networking, Pentesting, and Digital Forensics.
+
+---
+
+### 📂 Featured Repositories
+
+| Project / Repo | Description | Tech |
+|---|---|---|
+| 🧩 [Algorithm Repository](https://github.com/assassinyousuf/algorithm) | Data structures & algorithms solved for practice. | C, Python |
+| ⚙️ [Assembly Language](https://github.com/assassinyousuf/Assembly_Language) | Low-level computing and logic implementations. | Assembly |
+| 🎨 [BloomWatch Assets](https://github.com/assassinyousuf/BloomWatch-assets) | Game/creative asset collection for fun projects. | Mixed Media |
+
+---
+
+### 📊 GitHub Activity & Stats
+
+<p align="center">
+  <a href="https://github.com/assassinyousuf">
+    <img src="https://github-readme-stats.vercel.app/api?username=assassinyousuf&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/assassinyousuf">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=assassinyousuf&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=100&section=footer" />
+</p>
+<p align="center">
+  <em>⭐️ If you like my projects, don’t forget to star them — it really motivates me! ⭐️</em>
+</p>
